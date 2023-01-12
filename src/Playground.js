@@ -6,7 +6,7 @@ import { examplePrograms } from './example-programs';
 import './Playground.css';
 import { run } from './runner';
 
-const initialSelectedExample = examplePrograms[3];
+const initialSelectedExample = examplePrograms[0];
 
 function Playground() {
   const [replInput, setReplInput] = useState('');
