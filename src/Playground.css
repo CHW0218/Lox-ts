@@ -191,6 +191,7 @@ code,
   padding: 8px 12px;
   color: #fff;
   background: var(--dark-4);
+  text-transform: uppercase;
   border: 3px solid var(--dark-5);
 }
 
