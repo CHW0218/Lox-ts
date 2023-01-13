@@ -13,6 +13,7 @@ A playground designed by [React](https://reactjs.org/) is being depolyed online 
 
 [https://lox-ts-sp77f.ondigitalocean.app/](https://lox-ts-sp77f.ondigitalocean.app/)
 
+![alt text](https://github.com/CHW0218/lox-ts/blob/main/public/playground.png?raw=true)
 ****
 ### Run the interpreter locally
 
