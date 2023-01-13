@@ -14,11 +14,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "tsc",
-    "start": "npm run build && node dist/main.js",
+    "start": "tsc && node dist/main.js",
     "start:dev": "npx nodemon",
     "start:playground": "react-scripts start",
-    "build:playground": "react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prepublish": "npm run build",
